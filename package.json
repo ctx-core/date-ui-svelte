@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date-ui-svelte",
-	"version": "1.0.12",
+	"version": "1.0.13",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/date": "workspace:^13.0.9",
+		"@ctx-core/date": "workspace:^13.0.10",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
