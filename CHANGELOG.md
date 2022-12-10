@@ -1,5 +1,11 @@
 # @ctx-core/date-ui-svelte
 
+## 1.0.42
+
+### Patch Changes
+
+- svelte-preprocess: ^4.10.7 -> ^5.0.0
+
 ## 1.0.41
 
 ### Patch Changes
