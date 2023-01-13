@@ -1,5 +1,11 @@
 # @ctx-core/date-ui-svelte
 
+## 1.0.48
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 1.0.47
 
 ### Patch Changes
