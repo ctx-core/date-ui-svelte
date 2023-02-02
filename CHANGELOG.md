@@ -1,5 +1,11 @@
 # @ctx-core/date-ui-svelte
 
+## 1.0.53
+
+### Patch Changes
+
+- svelte2tsx: ^0.6.0 -> ^0.6.1
+
 ## 1.0.52
 
 ### Patch Changes
