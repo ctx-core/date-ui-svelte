@@ -1,5 +1,11 @@
 # @ctx-core/date-ui-svelte
 
+## 1.1.5
+
+### Patch Changes
+
+- fix: import type
+
 ## 1.1.4
 
 ### Patch Changes
