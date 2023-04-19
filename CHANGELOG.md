@@ -1,5 +1,13 @@
 # @ctx-core/date-ui-svelte
 
+## 1.1.25
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/date@13.3.22
+
 ## 1.1.24
 
 ### Patch Changes
