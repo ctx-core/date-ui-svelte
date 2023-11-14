@@ -1,5 +1,13 @@
 # @ctx-core/date-ui-svelte
 
+## 1.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/date@13.4.2
+
 ## 1.2.1
 
 ### Patch Changes
