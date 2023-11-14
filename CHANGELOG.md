@@ -1,5 +1,13 @@
 # @ctx-core/date-ui-svelte
 
+## 1.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/date@13.4.3
+
 ## 1.2.2
 
 ### Patch Changes
