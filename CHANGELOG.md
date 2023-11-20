@@ -1,5 +1,13 @@
 # @ctx-core/date-ui-svelte
 
+## 1.2.19
+
+### Patch Changes
+
+- svelte: ^4.2.5 -> ^4.2.6
+- Updated dependencies
+  - @ctx-core/date@13.4.19
+
 ## 1.2.18
 
 ### Patch Changes
