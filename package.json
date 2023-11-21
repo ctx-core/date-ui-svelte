@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date-ui-svelte",
-	"version": "1.2.20",
+	"version": "1.2.21",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/date": "^13.4.20",
-		"svelte": "^4.2.6"
+		"svelte": "^4.2.7"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
