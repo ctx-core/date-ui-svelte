@@ -1,5 +1,13 @@
 # @ctx-core/date-ui-svelte
 
+## 1.2.26
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+- Updated dependencies
+  - @ctx-core/date@13.4.25
+
 ## 1.2.25
 
 ### Patch Changes
