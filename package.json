@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date-ui-svelte",
-	"version": "1.2.77",
+	"version": "1.2.78",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.14.0",
+		"ctx-core": "^5.15.0",
 		"svelte": "^4.2.8"
 	},
 	"devDependencies": {
