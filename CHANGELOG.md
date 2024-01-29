@@ -1,5 +1,11 @@
 # @ctx-core/date-ui-svelte
 
+## 1.2.123
+
+### Patch Changes
+
+- ctx-core: ^5.35.0 -> ^5.35.1
+
 ## 1.2.122
 
 ### Patch Changes
