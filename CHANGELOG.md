@@ -1,5 +1,13 @@
 # @ctx-core/date-ui-svelte
 
+## 1.2.160
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 1.2.159
 
 ### Patch Changes
