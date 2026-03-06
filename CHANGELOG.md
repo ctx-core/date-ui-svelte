@@ -1,5 +1,13 @@
 # @ctx-core/date-ui-svelte
 
+## 1.2.215
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 1.2.214
 
 ### Patch Changes
